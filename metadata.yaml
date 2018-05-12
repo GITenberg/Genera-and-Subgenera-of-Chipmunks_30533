@@ -1,0 +1,28 @@
+_repo: Genera-and-Subgenera-of-Chipmunks_30533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, John A.
+    gutenberg_agent_id: '34659'
+    url: http://www.gutenberg.org/2009/agents/34659
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2009-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30533'
+  lccn: '53063226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chipmunks'
+- !lcc 'QL'
+title: Genera and Subgenera of Chipmunks
+url: http://www.gutenberg.org/ebooks/30533
